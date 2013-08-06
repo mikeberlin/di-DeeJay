@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Artist</key>
+		<string>Wu-Tang Clan</string>
+		<key>Title</key>
+		<string>C.R.E.A.M.</string>
+		<key>AlbumArtFileName</key>
+		<string>Enter The Magical Mystery Chambers.png</string>
+		<key>SongFileName</key>
+		<string>C.R.E.A.M.</string>
+		<key>SongFileExtension</key>
+		<string>mp3</string>
+	</dict>
+	<dict>
+		<key>Artist</key>
+		<string>The XX</string>
+		<key>Title</key>
+		<string>Crystalised</string>
+		<key>AlbumArtFileName</key>
+		<string>XX.jpg</string>
+		<key>SongFileName</key>
+		<string>Crystalised</string>
+		<key>SongFileExtension</key>
+		<string>m4a</string>
+	</dict>
+	<dict>
+		<key>Artist</key>
+		<string>Talib Kweli</string>
+		<key>Title</key>
+		<string>Get By</string>
+		<key>AlbumArtFileName</key>
+		<string>Quality.jpg</string>
+		<key>SongFileName</key>
+		<string>Get By</string>
+		<key>SongFileExtension</key>
+		<string>m4a</string>
+	</dict>
+	<dict>
+		<key>Artist</key>
+		<string>Widespread Panic</string>
+		<key>Title</key>
+		<string>I&apos;m Not Alone</string>
+		<key>AlbumArtFileName</key>
+		<string>Widespread Panic.jpg</string>
+		<key>SongFileName</key>
+		<string>I&apos;m Not Alone</string>
+		<key>SongFileExtension</key>
+		<string>m4a</string>
+	</dict>
+	<dict>
+		<key>Artist</key>
+		<string>Widespread Panic</string>
+		<key>Title</key>
+		<string>Little Lily</string>
+		<key>AlbumArtFileName</key>
+		<string>WSP.jpg</string>
+		<key>SongFileName</key>
+		<string>Little Lily</string>
+		<key>SongFileExtension</key>
+		<string>m4a</string>
+	</dict>
+	<dict>
+		<key>Artist</key>
+		<string>The Muppets</string>
+		<key>Title</key>
+		<string>Mahna Mahna</string>
+		<key>AlbumArtFileName</key>
+		<string>Muppets The Green Album.jpg</string>
+		<key>SongFileName</key>
+		<string>Mahna Mahna</string>
+		<key>SongFileExtension</key>
+		<string>m4a</string>
+	</dict>
+	<dict>
+		<key>Artist</key>
+		<string>Run DMC</string>
+		<key>Title</key>
+		<string>Run&apos;s House</string>
+		<key>AlbumArtFileName</key>
+		<string>Greatest Hits.jpg</string>
+		<key>SongFileName</key>
+		<string>Run&apos;s House</string>
+		<key>SongFileExtension</key>
+		<string>m4a</string>
+	</dict>
+	<dict>
+		<key>Artist</key>
+		<string>Miike Snow</string>
+		<key>Title</key>
+		<string>Song For No One</string>
+		<key>AlbumArtFileName</key>
+		<string>Miike Snow.jpg</string>
+		<key>SongFileName</key>
+		<string>Song For No One</string>
+		<key>SongFileExtension</key>
+		<string>m4a</string>
+	</dict>
+	<dict>
+		<key>Artist</key>
+		<string>The Roots</string>
+		<key>Title</key>
+		<string>The Seed (2.0)</string>
+		<key>AlbumArtFileName</key>
+		<string>Phrenology.jpg</string>
+		<key>SongFileName</key>
+		<string>The Seed (2.0)</string>
+		<key>SongFileExtension</key>
+		<string>m4a</string>
+	</dict>
+</array>
+</plist>
